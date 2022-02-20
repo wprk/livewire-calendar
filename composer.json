@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php": "^7.3|^7.4",
+        "php": "*",
         "illuminate/support": "*",
         "livewire/livewire": "*"
     },
